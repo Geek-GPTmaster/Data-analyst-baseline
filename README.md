@@ -1,6 +1,8 @@
 # Data-analyst-baseline
 A work flow shows the whole day of a business analyst.
+
 Process
+
 1️⃣ 数据获取｜Data Collection
 中文笔记
 • 使用 API 获取数据
